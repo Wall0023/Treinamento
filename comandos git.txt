@@ -1,0 +1,10 @@
+git init
+git status
+git commit -m "mensagem"
+git push
+git merge
+git add .
+git branch
+git checkout "nome da branch"
+git checkout -b "nome da branch de origem" "Nome da nova branch"
+git pull
